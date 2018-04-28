@@ -1,2 +1,2 @@
 # Stone-scissors-paper
-SSC game written in Batch
+Game written in Batch
